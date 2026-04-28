@@ -1,11 +1,11 @@
 # Cuarta tarea de APA 2023: Generación de números aleatorios
 
-## Nom i cognoms
+## Xavier Fernández Rodríguez
 
 > [!Important]
 > Introduzca a continuación su nombre y apellidos:
 >
-> Fulano Mengano Zutano
+> Xavier Fernández Rodríguez
 
 ## Aviso Importante
 
